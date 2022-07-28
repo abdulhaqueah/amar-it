@@ -2,7 +2,6 @@
 body{
     font-family: 'Montserrat', sans-serif;
 }
-
 .manur-sections{
     margin-left: 218px;
 }
@@ -90,10 +89,8 @@ footer{
         display: inline-flex;
         flex-direction: row!important;
     }
-
     .carousel {
-       
-        margin-top: 77px;
+      margin-top: 77px;
     }
     .carousel-caption button {
         width: 25%;
@@ -103,7 +100,7 @@ footer{
     }
         .btn-light {
             width: 26%;
-        }
+  }
     }
     /* phone devie Responsive */
  @media (min-width: 425px) and (max-width: 767px) {
